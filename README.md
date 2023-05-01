@@ -1,6 +1,6 @@
 # Hi, I am Emma!
 
-I am a C/C++ and PHP Programmer.
+Back-End Developer.
 
 ## My Favorite Technologies
 
