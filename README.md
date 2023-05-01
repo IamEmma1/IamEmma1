@@ -1,6 +1,6 @@
 # Hi, I am Emma!
 
-Back-End Developer.
+Brazilian Back-End Developer.
 
 ## My Favorite Technologies
 
