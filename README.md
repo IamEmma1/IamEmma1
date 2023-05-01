@@ -1,12 +1,6 @@
 # Hi, I am Emma!
 
-Brazilian Back-End Developer.
-
-## My Favorite Technologies
-
-- PHP
-- C++
-- C
+Brazilian Back-End Developer. PHP Language Student.
 
 ---
 
